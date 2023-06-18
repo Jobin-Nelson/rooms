@@ -1,6 +1,6 @@
 # Rooms
 
-Rooms is a real-time chat application built using Django and Python. It allows users to create chat rooms and communicate with other users in a collaborative environment.
+Rooms is a real-time chat application built using Django and Python. It allows users to create chat rooms and communicate with other users in a collaborative environment. The app is being hosted [here](http://jobin1.pythonanywhere.com/)
 
 ## Features
 
